@@ -40,6 +40,11 @@ library("arithmetic")
 remove.packages("arithmetic")
 ```
 
+### Python Here
+```python
+for i in range(100):
+  print(i)
+```
 
 
 
