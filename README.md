@@ -1,4 +1,4 @@
-### Install
+### Install DeveTools
 ```r
 install.packages("devtools")
 library("devtools")
@@ -30,6 +30,7 @@ c_mean(c(1,2,3,4,5))
 ```r
 install_github("https://github.com/donwany/arithmetic")
 
+# OR
 install_github("donwany/arithmetic")
 
 library("arithmetic")
