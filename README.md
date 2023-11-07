@@ -26,3 +26,31 @@ library(arithmetic)
 
 c_mean(c(1,2,3,4,5))
 ```
+### How to install from remote repository
+```r
+install_github("https://github.com/donwany/arithmetic")
+
+install_github("donwany/arithmetic")
+
+library("arithmetic")
+```
+
+### How to Remove Packages
+```r
+remove.packages("arithmetic")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
